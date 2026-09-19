@@ -1,479 +1,345 @@
 # Ajeet Dubey
 
-### Senior DevOps Engineer | Cloud Infrastructure | Kubernetes | Automation
+### Senior DevOps Engineer \| AWS \| Azure \| Kubernetes \| Terraform \| CI/CD \| Cloud Security
 
-**AWS** · **Azure** · **Amazon EKS** · **Kubernetes** · **Terraform** · **Docker** · **CI/CD** · **Linux** · **Cloud Security** · **Observability**
+[![GitHub](https://img.shields.io/badge/GitHub-ajeet--dubey89-181717?logo=github&logoColor=white)](https://github.com/ajeet-dubey89)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajeet%20Dubey-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-dubey-89/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ajeet--dubey89.github.io-00D9FF?logo=googlechrome&logoColor=white)](https://ajeet-dubey89.github.io/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ajeet--dubey89-181717?style=for-the-badge&logo=github)](https://github.com/ajeet-dubey89)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajeet%20Dubey-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajeet-dubey89/)
+------------------------------------------------------------------------
 
----
+## `whoami`
 
-## `$ whoami`
+Senior DevOps Engineer focused on designing, automating, securing, and
+operating cloud infrastructure.
 
-I am a **Senior DevOps Engineer** focused on designing, automating, securing, and operating cloud infrastructure and containerized platforms.
+My engineering focus is on:
 
-My engineering work spans **AWS and Azure**, with hands-on focus around **Kubernetes/Amazon EKS, Infrastructure as Code, CI/CD, Linux administration, cloud security, monitoring, and production troubleshooting**.
+-   Cloud infrastructure and platform engineering
+-   Kubernetes and Amazon EKS
+-   Infrastructure as Code with Terraform
+-   CI/CD automation
+-   Linux and containerized workloads
+-   Cloud security and operational controls
+-   Monitoring, troubleshooting, and reliability
+-   Practical automation using Bash, Python, and AWS CLI
 
-I enjoy turning operational problems into repeatable engineering solutions — from infrastructure provisioning and deployment automation to Kubernetes troubleshooting, security hardening, backup automation, and observability.
+> **Build it. Automate it. Secure it. Operate it.**
 
-> **Build it → Automate it → Secure it → Observe it → Troubleshoot it → Improve it**
+------------------------------------------------------------------------
 
----
+## Engineering Focus
 
-## `$ engineering-focus`
+``` text
+Cloud
+├── AWS
+├── Azure
+├── Networking
+└── Cloud Infrastructure
 
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                        DEVOPS ENGINEERING                           │
-├──────────────────────┬──────────────────────┬───────────────────────┤
-│ CLOUD                │ PLATFORM             │ AUTOMATION            │
-│ AWS / Azure          │ Kubernetes / EKS     │ Terraform / IaC        │
-│ Networking           │ Docker               │ CI/CD                  │
-│ Compute              │ Containers           │ GitHub Actions         │
-│ Storage              │ Services / Ingress   │ Jenkins                │
-│                      │                      │ CodePipeline / Build   │
-├──────────────────────┼──────────────────────┼───────────────────────┤
-│ SECURITY             │ OBSERVABILITY        │ OPERATIONS             │
-│ IAM / KMS            │ CloudWatch           │ Linux                  │
-│ WAF                  │ Site24x7             │ Bash / Python / CLI    │
-│ GuardDuty            │ Logs / Metrics       │ Incident Analysis      │
-│ Security Hub         │ Alert Investigation  │ Backup / Recovery      │
-│ Inspector            │ Troubleshooting      │ Automation              │
-└──────────────────────┴──────────────────────┴───────────────────────┘
+Platform
+├── Kubernetes
+├── Amazon EKS
+├── Docker
+└── Linux
+
+Infrastructure as Code
+├── Terraform
+└── Reusable Infrastructure Patterns
+
+CI/CD
+├── GitHub Actions
+├── Jenkins
+├── AWS CodePipeline
+└── AWS CodeBuild
+
+Security
+├── IAM
+├── KMS
+├── WAF
+├── Secrets Manager
+├── GuardDuty
+├── Security Hub
+└── Inspector
+
+Observability
+├── CloudWatch
+├── Site24x7
+├── Logs
+├── Metrics
+└── Operational Troubleshooting
 ```
 
----
+------------------------------------------------------------------------
 
-## `$ cloud-stack`
+## Technology Stack
 
-### AWS
+### Cloud
 
-`EC2` · `EKS` · `S3` · `CloudFront` · `ALB` · `NLB` · `Route 53` · `RDS` · `Aurora` · `DynamoDB` · `ElastiCache` · `ECR` · `Lambda` · `CloudWatch` · `Secrets Manager` · `KMS` · `SNS` · `SQS` · `WAF` · `GuardDuty` · `Security Hub` · `Inspector`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Azure
+### Containers & Platform
 
-`Virtual Machines` · `VM Scale Sets` · `Application Gateway` · `NSG` · `Azure SQL` · `Azure Storage` · `Azure Cache for Redis` · `Private Endpoints` · `VNet`
-
----
-
-## `$ platform-engineering`
-
-### Kubernetes & Containers
-
-- Kubernetes
-- Amazon EKS
-- Docker
-- Deployments and Services
-- Ingress
-- ConfigMaps and Secrets
-- Resource requests and limits
-- Pod lifecycle troubleshooting
-- Container restart analysis
-- Kubernetes upgrades
-- Production workload troubleshooting
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Infrastructure as Code
 
-- Terraform
-- Modular infrastructure design
-- Environment-based infrastructure
-- AWS networking and compute
-- Kubernetes infrastructure
-- Repeatable provisioning
-- Infrastructure change planning
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### CI/CD
 
-- Jenkins
-- GitHub Actions
-- AWS CodePipeline
-- AWS CodeBuild
-- Amazon ECR
-- Container build and deployment workflows
-- Deployment troubleshooting
-- CI/CD operational maintenance
+![GitHub
+Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS
+CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS
+CodeBuild](https://img.shields.io/badge/AWS_CodeBuild-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
----
+### Security & Operations
 
-## `$ security`
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-I treat security as part of infrastructure engineering rather than a separate afterthought.
+------------------------------------------------------------------------
 
-### Security areas
+## Featured Projects
 
-`IAM` · `KMS` · `Secrets Manager` · `WAF` · `Security Groups` · `NSG` · `GuardDuty` · `Security Hub` · `Inspector`
+The repositories below are being built as practical demonstrations of
+cloud, platform, automation, security, and troubleshooting practices.
 
-### Public repository rules
+### 01 --- AWS EKS Platform
 
-```text
-NO SECRETS
-NO ACCESS KEYS
-NO PRIVATE KEYS
-NO PRODUCTION CREDENTIALS
-NO REAL CUSTOMER DATA
-```
+**Repository:** `eks-terraform-platform`
 
-Public projects should use safe examples, environment variables, placeholders, and documented secret-management patterns.
+Terraform-driven Kubernetes platform covering:
 
----
+-   AWS networking
+-   Amazon EKS
+-   IAM
+-   ECR
+-   Kubernetes workloads
+-   Ingress and load balancing
+-   Deployment workflows
+-   Observability
+-   Security controls
 
-## `$ observability`
+**Status:** `IN DEVELOPMENT`
 
-### Monitoring & Operations
+------------------------------------------------------------------------
 
-- AWS CloudWatch
-- Site24x7
-- Application and infrastructure monitoring
-- Log analysis
-- Resource utilization analysis
-- Alert investigation
-- Production troubleshooting
-- Disk utilization analysis
-- Application response-time investigation
+### 02 --- Terraform AWS Infrastructure
 
-### Troubleshooting mindset
+**Repository:** `terraform-aws-infrastructure`
 
-```text
-Symptom
+Reusable Terraform infrastructure examples covering:
+
+-   VPC
+-   EC2
+-   IAM
+-   S3
+-   RDS
+-   Security patterns
+-   Environment organization
+-   Reusable modules
+
+**Status:** `PLANNED`
+
+------------------------------------------------------------------------
+
+### 03 --- CI/CD Engineering Lab
+
+**Repository:** `github-actions-cicd`
+
+A practical CI/CD lab covering:
+
+-   GitHub Actions
+-   Docker
+-   Amazon ECR
+-   Automated validation
+-   Security checks
+-   Deployment workflows
+-   Containerized application delivery
+
+**Status:** `PLANNED`
+
+------------------------------------------------------------------------
+
+### 04 --- Kubernetes Troubleshooting Lab
+
+**Repository:** `kubernetes-troubleshooting-lab`
+
+Practical Kubernetes troubleshooting scenarios covering:
+
+-   Pod failures
+-   CrashLoopBackOff
+-   OOMKilled
+-   Secrets and ConfigMaps
+-   Resource requests and limits
+-   Health probes
+-   Networking
+-   Logs and operational diagnosis
+
+**Status:** `PLANNED`
+
+------------------------------------------------------------------------
+
+### 05 --- Cloud Security Lab
+
+**Repository:** `cloud-security-lab`
+
+Practical cloud-security implementations covering:
+
+-   IAM
+-   KMS
+-   WAF
+-   Secrets Manager
+-   GuardDuty
+-   Security Hub
+-   Inspector
+-   Security-oriented infrastructure patterns
+
+**Status:** `PLANNED`
+
+------------------------------------------------------------------------
+
+## Engineering Method
+
+I approach infrastructure problems systematically:
+
+``` text
+Observe
    ↓
 Collect evidence
    ↓
-Reproduce / isolate
+Identify the failure domain
    ↓
-Identify root cause
+Trace dependencies
    ↓
-Apply controlled fix
+Find root cause
+   ↓
+Apply controlled change
    ↓
 Validate
    ↓
 Document
    ↓
-Prevent recurrence
+Automate prevention
 ```
 
----
+The goal is not only to restore a service, but to make the next
+occurrence easier to detect, diagnose, and prevent.
 
-## `$ architecture`
+------------------------------------------------------------------------
 
-### Typical cloud delivery flow
+## Architecture Thinking
 
-```mermaid
-flowchart TD
-    A[Developer] --> B[GitHub]
-    B --> C[CI/CD]
-    C --> D[Build Docker Image]
-    D --> E[Amazon ECR]
-    E --> F[Kubernetes / Amazon EKS]
-    F --> G[Application & Services]
-    G --> H[Logs / Metrics / Monitoring]
-```
+My infrastructure approach generally follows:
 
-### Infrastructure engineering lifecycle
-
-```mermaid
-flowchart LR
-    A[Plan] --> B[Terraform]
-    B --> C[Provision]
-    C --> D[Deploy]
-    D --> E[Observe]
-    E --> F[Troubleshoot]
-    F --> G[Improve]
-    G --> B
-```
-
----
-
-## `$ projects`
-
-The goal of this profile is to showcase **proof of engineering**, not simply a list of technologies.
-
-Projects below are the planned structure for the public portfolio. Repository status should reflect the actual implementation state.
-
-### 01 · AWS EKS Platform
-
-**Repository:** `eks-terraform-platform`
-
-A hands-on Kubernetes platform demonstrating infrastructure provisioning, EKS architecture, networking, container workloads, deployment automation, and operational documentation.
-
-**Focus**
-
-`Terraform` · `AWS` · `EKS` · `Kubernetes` · `VPC` · `ECR` · `Load Balancing` · `IAM` · `Observability`
-
-**Project evidence**
-
-- Architecture diagram
-- Terraform structure
-- Kubernetes manifests
-- Deployment workflow
-- Security considerations
-- Validation steps
-- Cleanup procedure
-
----
-
-### 02 · Terraform AWS Infrastructure
-
-**Repository:** `terraform-aws-infrastructure`
-
-Reusable AWS infrastructure examples covering networking, compute, storage, security, and data services.
-
-**Focus**
-
-`VPC` · `Subnets` · `Routing` · `Security Groups` · `IAM` · `EC2` · `S3` · `RDS` · `Terraform Modules`
-
----
-
-### 03 · CI/CD Engineering Lab
-
-**Repository:** `github-actions-cicd`
-
-A practical CI/CD implementation showing the path from source code to container image and deployment.
-
-```text
-Git Push
-   │
-   ▼
-Validate → Test → Build
-   │
-   ▼
-Docker Image
-   │
-   ▼
-Amazon ECR
-   │
-   ▼
-Kubernetes / EKS
-   │
-   ▼
-Observe → Validate
-```
-
-**Focus**
-
-`GitHub Actions` · `Docker` · `Amazon ECR` · `Kubernetes` · `Deployment Automation` · `Secrets Handling`
-
----
-
-### 04 · Kubernetes Troubleshooting Lab
-
-**Repository:** `kubernetes-troubleshooting-lab`
-
-A practical collection of reproducible Kubernetes failure scenarios.
-
-**Scenarios**
-
-- CrashLoopBackOff
-- OOMKilled
-- ContainerStatusUnknown
-- Failed deployments
-- Missing Secret keys
-- Resource pressure
-- Image pull failures
-- Service / Ingress troubleshooting
-- Pod restart investigation
-
-Each scenario follows:
-
-```text
-Failure
-  ↓
-Evidence
-  ↓
-kubectl Investigation
-  ↓
-Root Cause
-  ↓
-Resolution
-  ↓
-Prevention
-```
-
----
-
-### 05 · Cloud Security Lab
-
-**Repository:** `cloud-security-lab`
-
-Hands-on cloud security demonstrations using safe, non-production examples.
-
-**Focus**
-
-`IAM` · `KMS` · `WAF` · `GuardDuty` · `Security Hub` · `Inspector` · `Secrets Management` · `Logging`
-
----
-
-## `$ troubleshooting`
-
-Production infrastructure rarely fails in a clean, predictable way.
-
-My approach is evidence-driven.
-
-### Kubernetes
-
-```bash
-kubectl get pods -A
-kubectl describe pod <pod>
-kubectl logs <pod> --previous
-kubectl get events -A --sort-by=.lastTimestamp
-kubectl get deployment <deployment> -o yaml
-kubectl top pods
-kubectl top nodes
-```
-
-### Linux
-
-```bash
-df -h
-du -xh /var | sort -h
-free -m
-uptime
-ps aux --sort=-%mem
-ps aux --sort=-%cpu
-ss -tulpn
-journalctl -xe
-```
-
-### AWS
-
-```bash
-aws sts get-caller-identity
-aws eks describe-cluster --name <cluster>
-aws ec2 describe-instances
-aws s3 ls
-aws logs describe-log-groups
-```
-
-The objective is not simply to execute commands.
-
-It is to **collect evidence, isolate the failure domain, understand the dependency chain, and validate the fix**.
-
----
-
-## `$ repository-standard`
-
-Every serious project in this profile should document:
-
-```text
-01. Problem
-02. Architecture
-03. Technology choices
-04. Repository structure
-05. Prerequisites
-06. Deployment
-07. Security
-08. Observability
-09. Troubleshooting
-10. Validation
-11. Cleanup
-12. Lessons learned
-```
-
-This keeps repositories useful to both engineers and recruiters.
-
----
-
-## `$ portfolio`
-
-### DevOps Engineering Portfolio
-
-**Portfolio:** `ajeet-dubey89.github.io`
-
-The portfolio will extend this GitHub profile rather than duplicate it.
-
-```text
-HOME
- │
- ├── Engineering Identity
- │
- ├── Cloud / Platform Stack
- │
- ├── Featured Projects
- │
- ├── Architecture
- │
- ├── Troubleshooting Case Studies
- │
- ├── Infrastructure & Security
- │
- ├── Resume
- │
- └── Contact
-```
-
-### Visual direction
-
-A modern **cloud infrastructure / terminal console** aesthetic:
-
-- Dark engineering interface
-- Clean typography
-- AWS / Azure / Kubernetes architecture visuals
-- Interactive project cards
-- Architecture diagrams
-- Incident and troubleshooting case studies
-- Responsive design
-- Fast static delivery
-- Accessibility-first interactions
-
----
-
-## `$ engineering-principles`
-
-```text
+``` text
+Source Control
+      │
+      ▼
+CI/CD
+      │
+      ▼
 Infrastructure as Code
-        +
-Automation
-        +
-Security
-        +
-Observability
-        +
-Documentation
-        +
-Continuous Improvement
-        =
-Reliable Engineering
+      │
+      ▼
+Cloud Infrastructure
+      │
+      ▼
+Container Platform
+      │
+      ▼
+Application Workloads
+      │
+      ├──────────► Security
+      │
+      ├──────────► Observability
+      │
+      └──────────► Operations
 ```
 
-I value systems that are:
+------------------------------------------------------------------------
 
-- Repeatable
-- Observable
-- Secure
-- Documented
-- Automatable
-- Recoverable
-- Easy to troubleshoot
+## What I'm Building
 
----
+Current focus:
 
-## `$ currently-building`
+-   Building practical DevOps repositories
+-   Developing reusable Terraform infrastructure patterns
+-   Building Kubernetes and EKS examples
+-   Demonstrating CI/CD workflows
+-   Documenting troubleshooting scenarios
+-   Building cloud-security labs
+-   Connecting implementation evidence to my portfolio
 
-This profile is being developed as a **living engineering portfolio**.
+------------------------------------------------------------------------
 
-Planned areas include:
+## Portfolio
 
-- Terraform infrastructure
-- Kubernetes labs
-- EKS platform examples
-- CI/CD workflows
-- Cloud security demonstrations
-- Troubleshooting playbooks
-- Architecture diagrams
-- Automation scripts
-- Production-inspired case studies
+### `ajeet-dubey89.github.io`
 
-> **Real implementation and technical evidence over inflated project counts.**
+My interactive DevOps portfolio contains:
 
----
+-   Engineering profile
+-   Technology stack
+-   Featured projects
+-   Reference architecture
+-   Troubleshooting methodology
+-   Project blueprints
+-   Contact links
 
-## `$ connect`
+**Portfolio:**\
+https://ajeet-dubey89.github.io/
 
-**GitHub:** https://github.com/ajeet-dubey89  
-**LinkedIn:** https://www.linkedin.com/in/ajeet-dubey89/
+------------------------------------------------------------------------
 
----
+## Repository Philosophy
 
-### `EOF`
+Every public project should aim to contain more than configuration
+files.
 
-> **Build systems. Automate operations. Secure infrastructure. Learn from failures.**
+``` text
+Code
++
+Architecture
++
+Documentation
++
+Security
++
+Automation
++
+Troubleshooting
++
+Engineering Decisions
+```
+
+Projects will be marked as `PLANNED`, `IN DEVELOPMENT`, or `LIVE` so the
+repository status is clear.
+
+------------------------------------------------------------------------
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajeet-dubey89)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-dubey-89/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ajeet-dubey89.github.io/)
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+`<sub>`{=html}Cloud infrastructure • Kubernetes • Terraform • CI/CD •
+Automation • Security`</sub>`{=html}
+```{=html}
+</p>
+```
