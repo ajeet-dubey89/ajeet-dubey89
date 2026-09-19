@@ -3,7 +3,7 @@
 ### Senior DevOps Engineer \| AWS \| Azure \| Kubernetes \| Terraform \| CI/CD \| Cloud Security
 
 [![GitHub](https://img.shields.io/badge/GitHub-ajeet--dubey89-181717?logo=github&logoColor=white)](https://github.com/ajeet-dubey89)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajeet%20Dubey-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-dubey-89/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajeet%20Dubey-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-dubey89/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ajeet--dubey89.github.io-00D9FF?logo=googlechrome&logoColor=white)](https://ajeet-dubey89.github.io/)
 
 ------------------------------------------------------------------------
@@ -131,8 +131,6 @@ Terraform-driven Kubernetes platform covering:
 
 **Status:** `IN DEVELOPMENT`
 
-------------------------------------------------------------------------
-
 ### 02 --- Terraform AWS Infrastructure
 
 **Repository:** `terraform-aws-infrastructure`
@@ -150,8 +148,6 @@ Reusable Terraform infrastructure examples covering:
 
 **Status:** `PLANNED`
 
-------------------------------------------------------------------------
-
 ### 03 --- CI/CD Engineering Lab
 
 **Repository:** `github-actions-cicd`
@@ -167,8 +163,6 @@ A practical CI/CD lab covering:
 -   Containerized application delivery
 
 **Status:** `PLANNED`
-
-------------------------------------------------------------------------
 
 ### 04 --- Kubernetes Troubleshooting Lab
 
@@ -186,8 +180,6 @@ Practical Kubernetes troubleshooting scenarios covering:
 -   Logs and operational diagnosis
 
 **Status:** `PLANNED`
-
-------------------------------------------------------------------------
 
 ### 05 --- Cloud Security Lab
 
@@ -238,8 +230,6 @@ occurrence easier to detect, diagnose, and prevent.
 ------------------------------------------------------------------------
 
 ## Architecture Thinking
-
-My infrastructure approach generally follows:
 
 ``` text
 Source Control
@@ -296,8 +286,7 @@ My interactive DevOps portfolio contains:
 -   Project blueprints
 -   Contact links
 
-**Portfolio:**\
-https://ajeet-dubey89.github.io/
+**Portfolio:** https://ajeet-dubey89.github.io/
 
 ------------------------------------------------------------------------
 
@@ -330,16 +319,10 @@ repository status is clear.
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajeet-dubey89)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-dubey-89/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-dubey89/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ajeet-dubey89.github.io/)
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-`<sub>`{=html}Cloud infrastructure • Kubernetes • Terraform • CI/CD •
-Automation • Security`</sub>`{=html}
-```{=html}
-</p>
-```
+Cloud infrastructure • Kubernetes • Terraform • CI/CD • Automation •
+Security
