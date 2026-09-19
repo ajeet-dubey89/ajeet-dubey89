@@ -1,445 +1,594 @@
-<div align="center">
-
 # Ajeet Dubey
 
 ### Senior DevOps Engineer · Cloud Infrastructure · Kubernetes · Automation
 
-**AWS · Azure · Kubernetes · Terraform · Docker · CI/CD · Linux · Cloud Security**
+**AWS** · **Azure** · **Kubernetes / Amazon EKS** · **Terraform** ·
+**Docker** · **CI/CD** · **Linux** · **Cloud Security** ·
+**Observability**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ajeet--dubey89-181717?style=flat-square&logo=github)](https://github.com/ajeet-dubey89)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajeet%20Dubey-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ajeet-dubey89/)
-[![Profile Views](https://komarev.com/ghpvc/?username=ajeet-dubey89&style=flat-square&color=blue)](https://github.com/ajeet-dubey89)
+```{=html}
+<p align="left">
+```
+`<a href="https://github.com/ajeet-dubey89">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-ajeet--dubey89-181717?style=for-the-badge&logo=github" alt="GitHub">`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/ajeet-dubey89/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Ajeet%20Dubey-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
 
-</div>
-
----
+------------------------------------------------------------------------
 
 ## `$ whoami`
 
-Senior DevOps Engineer focused on **cloud infrastructure, Kubernetes platforms,
-Infrastructure as Code, CI/CD, security, observability, and production operations**.
+I am a **Senior DevOps Engineer** focused on designing, automating,
+securing, and operating cloud infrastructure and containerized
+platforms.
 
-I design and operate infrastructure across **AWS and Azure**, automate repetitive
-operational work, troubleshoot production systems, and build reliable deployment
-workflows with a focus on **security, availability, scalability, and maintainability**.
+My work spans **AWS and Azure**, with strong hands-on focus around
+**Kubernetes/Amazon EKS, Infrastructure as Code, CI/CD, Linux
+administration, cloud security, monitoring, and production
+troubleshooting**.
 
-```text
-Cloud Infrastructure
-        │
-        ├── AWS / Azure
-        │
-        ├── Kubernetes / Amazon EKS
-        │
-        ├── Terraform / Infrastructure as Code
-        │
-        ├── CI/CD / Automation
-        │
-        ├── Security / Observability
-        │
-        └── Production Troubleshooting
+I enjoy turning operational problems into repeatable engineering
+solutions --- from infrastructure provisioning and deployment automation
+to Kubernetes troubleshooting, security hardening, backup automation,
+and observability.
+
+> **Build it → Automate it → Secure it → Observe it → Troubleshoot it →
+> Improve it**
+
+------------------------------------------------------------------------
+
+## `$ engineering-focus`
+
+``` text
+┌─────────────────────────────────────────────────────────────────┐
+│                     DEVOPS ENGINEERING                          │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  CLOUD              PLATFORM              AUTOMATION             │
+│  AWS / Azure        Kubernetes / EKS      Terraform / IaC       │
+│  Networking         Docker                CI/CD                 │
+│  Compute            Containers            GitHub Actions        │
+│  Storage            Ingress / ALB         Jenkins               │
+│                                                                 │
+│  SECURITY            OBSERVABILITY         OPERATIONS             │
+│  IAM / KMS           CloudWatch            Linux                 │
+│  WAF                 Monitoring            Bash / Python / CLI   │
+│  GuardDuty           Alerting              Incident Analysis     │
+│  Inspector           Site24x7             Backup / Recovery     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
----
+------------------------------------------------------------------------
 
-## `$ cat /etc/devops-stack`
+## `$ cloud-stack`
 
-| Domain | Stack |
-|---|---|
-| **Cloud** | AWS · Azure |
-| **Containers** | Docker · Kubernetes · Amazon EKS |
-| **IaC** | Terraform |
-| **CI/CD** | Jenkins · GitHub Actions · AWS CodePipeline · AWS CodeBuild |
-| **OS & Scripting** | Linux · Ubuntu · Bash · Python · AWS CLI |
-| **Networking** | VPC · ALB · NLB · Route 53 · CloudFront · WAF · DNS |
-| **Databases** | MySQL · RDS · Aurora · DynamoDB |
-| **Storage & Messaging** | S3 · ECR · SQS · SNS |
-| **Security** | IAM · KMS · Secrets Manager · Security Hub · GuardDuty · Inspector |
-| **Observability** | CloudWatch · Site24x7 · Logs · Metrics · Alerting |
+### ☁️ Cloud
 
----
+  AWS               Azure
+  ----------------- -----------------------
+  EC2               Virtual Machines
+  EKS               VM Scale Sets
+  S3                Azure Storage
+  CloudFront        Application Gateway
+  ALB / NLB         NSG
+  Route 53          Private Endpoints
+  RDS / Aurora      Azure SQL
+  DynamoDB          Azure Cache for Redis
+  ElastiCache       
+  ECR               
+  Lambda            
+  CloudWatch        
+  Secrets Manager   
+  KMS               
+  SNS / SQS         
+  WAF               
+  GuardDuty         
+  Security Hub      
+  Inspector         
 
-## ☁️ Cloud Engineering
+------------------------------------------------------------------------
+
+## `$ platform-engineering`
+
+### Kubernetes / Containers
+
+-   Kubernetes
+-   Amazon EKS
+-   Docker
+-   Kubernetes Deployments
+-   Services and Ingress
+-   ConfigMaps and Secrets
+-   Resource requests and limits
+-   Pod lifecycle troubleshooting
+-   Container restart analysis
+-   Kubernetes upgrades
+-   Production workload troubleshooting
+
+### Infrastructure as Code
+
+-   Terraform
+-   Modular infrastructure design
+-   Environment-based infrastructure
+-   AWS networking and compute
+-   Kubernetes infrastructure
+-   Infrastructure change planning
+-   Repeatable provisioning
+
+### CI/CD
+
+-   Jenkins
+-   GitHub Actions
+-   AWS CodePipeline
+-   AWS CodeBuild
+-   ECR-based container workflows
+-   Build and deployment automation
+-   Deployment troubleshooting
+-   CI/CD operational maintenance
+
+------------------------------------------------------------------------
+
+## `$ security`
+
+I treat security as part of infrastructure engineering rather than a
+separate afterthought.
+
+**Areas I work with:**
+
+-   IAM
+-   IAM roles and policies
+-   KMS
+-   Secrets Manager
+-   WAF
+-   Security groups
+-   Network Security Groups
+-   GuardDuty
+-   Security Hub
+-   Inspector
+-   Secure configuration practices
+-   Secret-handling and credential hygiene
+-   Backup and recovery controls
+
+### Public repository rule
+
+``` text
+NO SECRETS
+NO ACCESS KEYS
+NO PRIVATE KEYS
+NO PRODUCTION CREDENTIALS
+NO REAL CUSTOMER DATA
+```
+
+All public projects should use safe examples, environment variables,
+placeholders, and documented secret-management patterns.
+
+------------------------------------------------------------------------
+
+## `$ observability`
+
+### Monitoring & Operations
+
+-   AWS CloudWatch
+-   Site24x7
+-   Application and infrastructure monitoring
+-   Log analysis
+-   Resource utilization analysis
+-   Alert investigation
+-   Production troubleshooting
+-   Disk utilization analysis
+-   Application response-time investigation
+
+### Troubleshooting mindset
+
+``` text
+Symptom
+   ↓
+Collect evidence
+   ↓
+Reproduce / isolate
+   ↓
+Identify root cause
+   ↓
+Apply controlled fix
+   ↓
+Validate
+   ↓
+Document
+   ↓
+Prevent recurrence
+```
+
+------------------------------------------------------------------------
+
+## `$ projects`
+
+The repositories below are intended as **proof-of-work projects** rather
+than a collection of technology lists.
+
+> Project status should reflect reality. Repositories will be marked
+> `WIP`, `LAB`, or `ACTIVE` only when that status is actually true.
+
+### 01 · AWS EKS Platform
+
+**Repository:** `eks-terraform-platform`
+
+A hands-on Kubernetes platform demonstrating infrastructure
+provisioning, EKS architecture, networking, container workloads,
+deployment automation, and operational documentation.
+
+**Focus**
+
+-   Terraform
+-   AWS
+-   EKS
+-   Kubernetes
+-   VPC / networking
+-   ECR
+-   Load balancing
+-   IAM
+-   Observability
+
+------------------------------------------------------------------------
+
+### 02 · Terraform AWS Infrastructure
+
+**Repository:** `terraform-aws-infrastructure`
+
+Reusable infrastructure examples covering core AWS networking, compute,
+storage, security, and data services.
+
+**Focus**
+
+-   VPC
+-   Subnets
+-   Routing
+-   Security groups
+-   IAM
+-   EC2
+-   S3
+-   RDS
+-   Infrastructure lifecycle
+-   Terraform modules
+
+------------------------------------------------------------------------
+
+### 03 · CI/CD Engineering Lab
+
+**Repository:** `github-actions-cicd`
+
+A practical CI/CD implementation demonstrating the path from source code
+to container image and deployment.
+
+``` text
+Git Push
+   │
+   ▼
+CI
+   │
+   ├── Validate
+   ├── Test
+   └── Build
+   │
+   ▼
+Docker Image
+   │
+   ▼
+Container Registry
+   │
+   ▼
+Deployment
+   │
+   ▼
+Kubernetes
+```
+
+**Focus**
+
+-   GitHub Actions
+-   Docker
+-   AWS ECR
+-   Kubernetes
+-   Deployment automation
+-   Rollback concepts
+-   Secrets handling
+
+------------------------------------------------------------------------
+
+### 04 · Kubernetes Troubleshooting Lab
+
+**Repository:** `kubernetes-troubleshooting-lab`
+
+A practical collection of reproducible Kubernetes failure scenarios.
+
+**Examples**
+
+-   CrashLoopBackOff
+-   OOMKilled
+-   ContainerStatusUnknown
+-   Failed deployments
+-   Missing Secret keys
+-   Resource pressure
+-   Image pull failures
+-   Service / ingress troubleshooting
+-   Pod restart investigation
+
+Each scenario follows:
+
+``` text
+Failure
+  ↓
+Evidence
+  ↓
+kubectl investigation
+  ↓
+Root cause
+  ↓
+Resolution
+  ↓
+Prevention
+```
+
+------------------------------------------------------------------------
+
+### 05 · Cloud Security Lab
+
+**Repository:** `cloud-security-lab`
+
+Hands-on cloud security demonstrations using safe, non-production
+examples.
+
+**Focus**
+
+-   IAM
+-   KMS
+-   WAF
+-   GuardDuty
+-   Security Hub
+-   Inspector
+-   Secrets management
+-   Security boundaries
+-   Logging and monitoring
+
+------------------------------------------------------------------------
+
+## `$ architecture`
+
+### Typical cloud delivery flow
+
+``` text
+                   ┌─────────────────┐
+                   │    Developer    │
+                   └────────┬────────┘
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │     GitHub      │
+                   └────────┬────────┘
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │     CI/CD       │
+                   │ Actions/Jenkins │
+                   └────────┬────────┘
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │ Docker / Build  │
+                   └────────┬────────┘
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │   ECR / Registry │
+                   └────────┬────────┘
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │ Kubernetes / EKS │
+                   └────────┬────────┘
+                            │
+                 ┌──────────┴──────────┐
+                 ▼                     ▼
+          ┌─────────────┐       ┌─────────────┐
+          │ Application │       │  Services   │
+          └──────┬──────┘       └──────┬──────┘
+                 │                     │
+                 └──────────┬──────────┘
+                            ▼
+                   ┌─────────────────┐
+                   │ Observability   │
+                   │ Logs / Metrics  │
+                   └─────────────────┘
+```
+
+------------------------------------------------------------------------
+
+## `$ troubleshooting`
+
+Production infrastructure rarely fails in a clean, predictable way.
+
+My approach is evidence-driven:
+
+### Kubernetes
+
+``` bash
+kubectl get pods -A
+kubectl describe pod <pod>
+kubectl logs <pod> --previous
+kubectl get events -A --sort-by=.lastTimestamp
+kubectl get deployment <deployment> -o yaml
+kubectl top pods
+kubectl top nodes
+```
+
+### Linux
+
+``` bash
+df -h
+du -xh /var | sort -h
+free -m
+uptime
+ps aux --sort=-%mem
+ps aux --sort=-%cpu
+ss -tulpn
+journalctl -xe
+```
 
 ### AWS
 
-Hands-on infrastructure across:
-
-`EC2` `EKS` `S3` `RDS` `Aurora` `DynamoDB` `ECR`
-
-`ALB` `NLB` `Route 53` `CloudFront` `WAF`
-
-`IAM` `KMS` `Secrets Manager` `CloudWatch`
-
-`SQS` `SNS` `Security Hub` `GuardDuty` `Inspector`
-
-### Azure
-
-`Virtual Machines` `VM Scale Sets` `Application Gateway` `WAF`
-
-`Virtual Network` `NSG` `Azure SQL` `Azure Cache for Redis`
-
-`Private Endpoints`
-
----
-
-## ☸️ Kubernetes / Platform Engineering
-
-Working with Kubernetes and Amazon EKS across application and
-infrastructure environments.
-
-**Platform operations**
-
-- Cluster administration and upgrades
-- Application deployments and rolling updates
-- Services and Ingress
-- ConfigMaps and Secrets
-- Resource requests and limits
-- Scaling and workload management
-- Container and node troubleshooting
-- Kubernetes networking
-- Production availability troubleshooting
-
-**Common failure investigation**
-
-```text
-Pod / Application Failure
-          │
-          ▼
-    kubectl describe
-          │
-          ▼
-    kubectl logs
-          │
-          ▼
-   Events / Resources
-          │
-          ▼
-   Network / Config / Secret
-          │
-          ▼
-       Root Cause
-          │
-          ▼
-   Fix → Validate → Prevent
+``` bash
+aws sts get-caller-identity
+aws eks describe-cluster --name <cluster>
+aws ec2 describe-instances
+aws s3 ls
+aws logs describe-log-groups
 ```
 
-Typical scenarios:
+The objective is not simply to execute commands --- it is to **collect
+evidence, isolate the failure domain, understand the dependency chain,
+and validate the fix**.
 
-`CrashLoopBackOff` · `ImagePullBackOff` · `OOMKilled` ·
-`ContainerStatusUnknown` · `Pending Pods` · `Secret Issues` ·
-`Ingress Issues` · `DNS Issues` · `Node Problems`
+------------------------------------------------------------------------
 
----
+## `$ repository-standard`
 
-## 🏗️ Infrastructure as Code
+Every serious project in this profile should document:
 
-### Terraform
-
-Infrastructure is treated as code: **versioned, reviewable, repeatable, and automated**.
-
-Typical architecture:
-
-```text
-                         Terraform
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-             VPC           Compute       Security
-              │              │              │
-       ┌──────┼──────┐    EC2 / EKS     IAM / SG
-       ▼      ▼      ▼
-    Public  Private  Routes
-    Subnets Subnets  / NAT
-              │
-              ▼
-       Application Layer
-        ALB / ECR / K8s
-              │
-              ▼
-          Data Layer
-       RDS / S3 / DynamoDB
+``` text
+01. Problem
+02. Architecture
+03. Technology choices
+04. Repository structure
+05. Prerequisites
+06. Deployment
+07. Security
+08. Observability
+09. Troubleshooting
+10. Validation
+11. Cleanup
+12. Lessons learned
 ```
 
-Focus areas:
+This keeps the repositories useful to both **engineers and recruiters**.
 
-`Modules` · `Variables` · `Outputs` · `State` · `Environment Separation`
-· `Reusable Infrastructure` · `Version Control`
+------------------------------------------------------------------------
 
----
+## `$ portfolio`
 
-## 🔄 CI/CD Engineering
+### DevOps Engineering Portfolio
 
-```text
-   Developer
-       │
-       ▼
-     GitHub
-       │
-       ▼
-  CI/CD Pipeline
-       │
-   ┌───┼──────────┐
-   ▼   ▼          ▼
- Build Test   Security Checks
-   │
-   ▼
- Docker Image
-   │
-   ▼
-    ECR
-   │
-   ▼
- Kubernetes / EKS
-   │
-   ▼
- Production
-   │
-   ▼
- Monitoring & Alerting
+**Portfolio:** `ajeet-dubey89.github.io`
+
+The portfolio will extend this GitHub profile rather than duplicate it.
+
+Planned experience:
+
+``` text
+HOME
+ │
+ ├── Engineering Identity
+ │
+ ├── Cloud / Platform Stack
+ │
+ ├── Featured Projects
+ │
+ ├── Architecture
+ │
+ ├── Troubleshooting Case Studies
+ │
+ ├── Infrastructure & Security
+ │
+ ├── Resume
+ │
+ └── Contact
 ```
 
-**Tooling**
+### Visual direction
 
-`Git` · `GitHub` · `Jenkins` · `GitHub Actions` ·
-`AWS CodePipeline` · `AWS CodeBuild` · `Docker` · `ECR`
+A modern **cloud infrastructure / terminal console** aesthetic:
 
----
+-   Dark engineering interface
+-   Clean typography
+-   AWS/Azure/Kubernetes architecture visuals
+-   Interactive project cards
+-   Architecture diagrams
+-   Incident/troubleshooting case studies
+-   Responsive design
+-   Fast static delivery
+-   Accessibility-first interactions
 
-## 🔐 Security Engineering
+------------------------------------------------------------------------
 
-Security is part of the infrastructure lifecycle, not an afterthought.
+## `$ engineering-principles`
 
-| Area | Technologies |
-|---|---|
-| **Identity** | IAM · Least Privilege |
-| **Encryption** | KMS |
-| **Secrets** | Secrets Manager |
-| **Edge Security** | WAF |
-| **Workload Security** | Security Groups · Network Controls |
-| **Threat Detection** | GuardDuty |
-| **Security Posture** | Security Hub |
-| **Vulnerability Management** | Inspector |
-
----
-
-## 📊 Observability & Production Operations
-
-```text
-       Metrics ─────┐
-       Logs ────────┼──► Investigation ─► Root Cause
-       Alerts ──────┘                         │
-                                             ▼
-                                           Fix
-                                             │
-                                             ▼
-                                         Validate
-                                             │
-                                             ▼
-                                      Document / Prevent
-```
-
-Experience includes:
-
-- AWS CloudWatch
-- Site24x7
-- Application and infrastructure monitoring
-- Log investigation
-- CPU / memory / disk analysis
-- Network troubleshooting
-- Database performance investigation
-- Alerting and operational health checks
-
----
-
-## 🐧 Linux & Automation
-
-**Linux**
-
-`Linux` `Ubuntu` `Amazon Linux` `SSH` `systemd` `cron`
-`processes` `filesystems` `networking` `logs`
-
-**Automation**
-
-`Bash` `Python` `AWS CLI` `Terraform` `Jenkins` `GitHub Actions`
-
-Automation areas include:
-
-- Infrastructure provisioning
-- Deployment workflows
-- Backup automation
-- AWS resource operations
-- Monitoring checks
-- Cleanup jobs
-- Scheduled operational tasks
-- Notification workflows
-
----
-
-# 🚀 Engineering Projects
-
-> This section is intentionally focused on **real, documented engineering work**.
-> Project repositories will be linked here as they are built and published.
-
-### `01` · AWS EKS Platform
-
-**AWS · Terraform · EKS · Kubernetes · Docker · ECR · IAM · ALB**
-
-A production-oriented platform project covering cloud networking,
-Kubernetes infrastructure, workload deployment, access control,
-container images, load balancing, and observability.
-
-**Status:** Building
-
----
-
-### `02` · Terraform AWS Infrastructure
-
-**Terraform · AWS · VPC · EC2 · ALB · RDS · S3**
-
-Reusable Infrastructure as Code demonstrating environment-aware
-AWS infrastructure and repeatable provisioning.
-
-**Status:** Building
-
----
-
-### `03` · CI/CD Automation Platform
-
-**GitHub Actions · Jenkins · Docker · ECR · Kubernetes**
-
-Automated build, validation, containerization, registry publishing,
-and Kubernetes deployment workflows.
-
-**Status:** Building
-
----
-
-### `04` · Kubernetes Troubleshooting Lab
-
-**Kubernetes · EKS · Docker · Linux**
-
-A practical troubleshooting knowledge base covering failed pods,
-resource problems, configuration issues, networking, services,
-Ingress, nodes, and deployment failures.
-
-**Status:** Building
-
----
-
-### `05` · Cloud Security Lab
-
-**IAM · KMS · WAF · GuardDuty · Security Hub · Inspector**
-
-Hands-on security configurations, detection scenarios, access
-controls, encryption, and vulnerability-management workflows.
-
-**Status:** Building
-
----
-
-## 🧭 DevOps Operating Model
-
-```text
-PLAN
-  │
-  ▼
-CODE
-  │
-  ▼
-BUILD
-  │
-  ▼
-TEST
-  │
-  ▼
-SECURE
-  │
-  ▼
-DEPLOY
-  │
-  ▼
-MONITOR
-  │
-  ▼
-TROUBLESHOOT
-  │
-  ▼
-IMPROVE
-  │
-  └──────────────► AUTOMATE
-```
-
----
-
-## 🧠 Engineering Principles
-
-```text
-Infrastructure should be reproducible.
-Automation should reduce operational risk.
-Security should be built into the platform.
-Observability should make failures diagnosable.
-Production incidents should be investigated systematically.
-Infrastructure changes should be version controlled.
-Documentation should accompany important engineering work.
-Manual repetitive work should be automated where practical.
-```
-
----
-
-## 🎯 Current Focus
-
-```text
-Kubernetes Platform Engineering
-AWS Cloud Infrastructure
+``` text
 Infrastructure as Code
-CI/CD Automation
-Cloud Security
+        +
+Automation
+        +
+Security
+        +
 Observability
-Production Reliability
-Infrastructure Automation
-Cloud Cost Optimization
+        +
+Documentation
+        +
+Continuous Improvement
+        =
+Reliable Engineering
 ```
 
----
+I value systems that are:
 
-## 📂 Repository Roadmap
+-   Repeatable
+-   Observable
+-   Secure
+-   Documented
+-   Automatable
+-   Recoverable
+-   Easy to troubleshoot
 
-```text
-ajeet-dubey89
-│
-├── aws-eks-platform
-├── terraform-aws-infrastructure
-├── github-actions-cicd
-├── kubernetes-troubleshooting-lab
-├── cloud-security-lab
-├── devops-monitoring-stack
-├── linux-troubleshooting-lab
-└── devops-automation
+------------------------------------------------------------------------
+
+## `$ currently-building`
+
+This profile is being developed as a **living engineering portfolio**.
+
+The goal is to progressively add:
+
+-   Terraform infrastructure
+-   Kubernetes labs
+-   EKS platform examples
+-   CI/CD workflows
+-   Cloud security demonstrations
+-   Troubleshooting playbooks
+-   Architecture diagrams
+-   Automation scripts
+-   Production-inspired case studies
+
+The emphasis is on **real implementation and technical evidence**, not
+inflated project counts.
+
+------------------------------------------------------------------------
+
+## `$ connect`
+
+```{=html}
+<p align="left">
+```
+`<a href="https://github.com/ajeet-dubey89">`{=html}GitHub`</a>`{=html}
+·
+`<a href="https://www.linkedin.com/in/ajeet-dubey89/">`{=html}LinkedIn`</a>`{=html}
+```{=html}
+</p>
 ```
 
-These repositories will contain **source code, architecture diagrams,
-configuration examples, automation, troubleshooting notes, and documentation**
-rather than only screenshots or technology lists.
+------------------------------------------------------------------------
 
----
+### `EOF`
 
-## 🤝 Connect
-
-**LinkedIn:**  
-https://www.linkedin.com/in/ajeet-dubey89/
-
-**GitHub:**  
-https://github.com/ajeet-dubey89
-
-**Portfolio:**  
-Coming soon — `ajeet-dubey89.github.io`
-
----
-
-<div align="center">
-
-### `Build → Automate → Secure → Deploy → Monitor → Improve`
-
-**Senior DevOps Engineer | Cloud & Platform Engineering**
-
-</div>
+> **Build systems. Automate operations. Secure infrastructure. Learn
+> from failures.**
