@@ -61,34 +61,22 @@ Cloud Infrastructure
 ## ☁️ Cloud Engineering
 
 ### AWS
-
 Hands-on infrastructure across:
-
 `EC2` `EKS` `S3` `RDS` `Aurora` `DynamoDB` `ECR`
-
 `ALB` `NLB` `Route 53` `CloudFront` `WAF`
-
 `IAM` `KMS` `Secrets Manager` `CloudWatch`
-
 `SQS` `SNS` `Security Hub` `GuardDuty` `Inspector`
 
 ### Azure
-
 `Virtual Machines` `VM Scale Sets` `Application Gateway` `WAF`
-
 `Virtual Network` `NSG` `Azure SQL` `Azure Cache for Redis`
-
 `Private Endpoints`
-
 ---
-
 ## ☸️ Kubernetes / Platform Engineering
-
 Working with Kubernetes and Amazon EKS across application and
 infrastructure environments.
 
 **Platform operations**
-
 - Cluster administration and upgrades
 - Application deployments and rolling updates
 - Services and Ingress
@@ -100,7 +88,6 @@ infrastructure environments.
 - Production availability troubleshooting
 
 **Common failure investigation**
-
 ```text
 Pod / Application Failure
           │
@@ -159,12 +146,9 @@ Typical architecture:
           Data Layer
        RDS / S3 / DynamoDB
 ```
-
 Focus areas:
-
 `Modules` · `Variables` · `Outputs` · `State` · `Environment Separation`
 · `Reusable Infrastructure` · `Version Control`
-
 ---
 
 ## 🔄 CI/CD Engineering
